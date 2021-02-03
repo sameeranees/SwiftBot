@@ -1,4 +1,12 @@
 # SwiftBot
+ ## Abstract
+ The need for secure and 'swift' delivery has risen to the forefront in today's increasingly connected society, a society that relies heavily on delivery services. From local food deliveries to worldwide shipping, the reliability and safety of delivery services can significantly impact the efficacy of operations involving the movement of goods. Another revolution being experienced is in the increasing degree of automation the world is undergoing which has altered the landscape of many traditional industries, including that of delivery logistics. Be it in factories, offices, or hospitals, issues related to the transportation of items within organizations exist that can hinder or delay tasks which are to be completed within fixed time frames and hence, there exists a requirement for tackling the issue of deliveries within closed spaces in a safe and timely manner.
+
+This project puts forth an autonomous unmanned ground vehicle that utilizes localization and mapping capabilities to plan a path to a destination intended for the delivery of a load. A mobile application integrated with a mapping service is utilized to mark a destination area or coordinate. Moreover, via the data harvested from sensors, such as a laser range sensor responsible for object detection, the mapping and path planning process is used to automate the delivery process between two points. Security features such as facial recognition are possible means to secure the payload within the robot. 
+
+Part of the motivation of the project stems from observing the transportation needs on Habib University's campus, from transporting food items to and from the cafeteria, to moving exam papers and lab manuals between different offices and departments when dealing with bulk loads and downed printing services. With the team’s interest in robotics and the desire to make the campus life easier for its denizens, potential use cases were brainstormed that focused on providing a solution to the aforementioned problems. All these factors led to the team going forward with the titular project.
+ ## Details
+ Check out the CS and Capstone Reports, under the Reports folder, for detailed information about the project.
  ## How to Run the Files
  1) Files related to ROS
  2) Files related to App
